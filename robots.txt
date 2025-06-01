@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://xavirambla.github.com/daodejing/sitemap.xml
