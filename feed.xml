@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>daodejing.com</title>
+    <link href="https://xavirambla.github.io/daodejing/feed.xml" rel="self" />
+    <link href="https://xavirambla.github.io/daodejing" />
+    <updated>2025-06-07T08:57:51+02:00</updated>
+    <author>
+        <name>Mari Carmen Cuenca Morales</name>
+    </author>
+    <id>https://xavirambla.github.io/daodejing</id>
+
+    <entry>
+        <title>2</title>
+        <author>
+            <name>Mari Carmen Cuenca Morales</name>
+        </author>
+        <link href="https://xavirambla.github.io/daodejing/2.html"/>
+        <id>https://xavirambla.github.io/daodejing/2.html</id>
+
+        <updated>2025-06-07T08:57:51+02:00</updated>
+            <summary>
+                <![CDATA[
+                    22222
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>22222</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Bienvenidos</title>
+        <author>
+            <name>Mari Carmen Cuenca Morales</name>
+        </author>
+        <link href="https://xavirambla.github.io/daodejing/bienvenidos.html"/>
+        <id>https://xavirambla.github.io/daodejing/bienvenidos.html</id>
+
+        <updated>2025-06-07T08:46:29+02:00</updated>
+            <summary>
+                <![CDATA[
+                    🏠 ¡Bienvenidos a mi casa!&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <div class="two_cols_container"><!-- Columna de texto -->
+<div class="two_cols_column_left two_cols_text">
+<p>🏠 <strong>¡Bienvenidos a mi casa!</strong> 😊</p>
+<p style="text-align: justify;">En <strong>Quiroestetic M.C.</strong> ofrecemos <strong>terapias alternativas</strong> para mejorar tu bienestar físico y emocional. Descubre nuestros servicios de <strong>acupuntura</strong>, <strong>quiromasaje</strong> y mucho más. 💆‍♂️✨</p>
+</div>
+<!-- Columna de imágenes a la derecha -->
+<div class="two_cols_column_right two_cols_images">
+<figure class="quiromasaje-image-end">📸 <strong>Imágenes Destacadas</strong>
+<img loading="lazy"  style="margin-top: 15px;" src="media/files/mari_1.jpeg" alt="Quiromasaje 1" width="250" height="auto" data-is-external-image="true"></figure></div>
+</div>
+            ]]>
+        </content>
+    </entry>
+</feed>

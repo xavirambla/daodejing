@@ -1,0 +1,42 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "daodejing.com",
+    "description": "",
+    "home_page_url": "https://xavirambla.github.io/daodejing",
+    "feed_url": "https://xavirambla.github.io/daodejing/feed.json",
+    "user_comment": "",
+    "icon": "https://xavirambla.github.io/daodejing/media/website/cabecera.jpg",
+    "author": {
+        "name": "Mari Carmen Cuenca Morales"
+    },
+    "items": [
+        {
+            "id": "https://xavirambla.github.io/daodejing/2.html",
+            "url": "https://xavirambla.github.io/daodejing/2.html",
+            "title": "2",
+            "summary": "22222",
+            "content_html": "<p>22222</p>",
+            "author": {
+                "name": "Mari Carmen Cuenca Morales"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-06-07T08:57:51+02:00",
+            "date_modified": "2025-06-07T08:57:51+02:00"
+        },
+        {
+            "id": "https://xavirambla.github.io/daodejing/bienvenidos.html",
+            "url": "https://xavirambla.github.io/daodejing/bienvenidos.html",
+            "title": "Bienvenidos",
+            "summary": "🏠 ¡Bienvenidos a mi casa!&hellip;",
+            "content_html": "<div class=\"two_cols_container\"><!-- Columna de texto -->\n<div class=\"two_cols_column_left two_cols_text\">\n<p>🏠 <strong>¡Bienvenidos a mi casa!</strong> 😊</p>\n<p style=\"text-align: justify;\">En <strong>Quiroestetic M.C.</strong> ofrecemos <strong>terapias alternativas</strong> para mejorar tu bienestar físico y emocional. Descubre nuestros servicios de <strong>acupuntura</strong>, <strong>quiromasaje</strong> y mucho más. 💆‍♂️✨</p>\n</div>\n<!-- Columna de imágenes a la derecha -->\n<div class=\"two_cols_column_right two_cols_images\">\n<figure class=\"quiromasaje-image-end\">📸 <strong>Imágenes Destacadas</strong>\n<img loading=\"lazy\"  style=\"margin-top: 15px;\" src=\"media/files/mari_1.jpeg\" alt=\"Quiromasaje 1\" width=\"250\" height=\"auto\" data-is-external-image=\"true\"></figure></div>\n</div>",
+            "author": {
+                "name": "Mari Carmen Cuenca Morales"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-06-07T08:46:29+02:00",
+            "date_modified": "2025-06-07T08:48:15+02:00"
+        }
+    ]
+}
